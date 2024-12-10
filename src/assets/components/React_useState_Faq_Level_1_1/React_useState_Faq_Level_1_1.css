@@ -1,0 +1,18 @@
+.useState-faq{
+    background-color: rgb(42, 46, 46);
+    color: white;
+}
+
+.useState-faq div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.display{
+    display: none;
+}

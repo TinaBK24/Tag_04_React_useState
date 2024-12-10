@@ -1,0 +1,23 @@
+.useState-day-night-change{
+    width: fit-content;
+}
+
+.useState-day-night-change div{
+    text-align: center;
+}
+
+.useState-day-night-change h1{
+    font-size: 3rem;
+}
+
+.useState-day-night-change button{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.night{
+    background-color: black;
+    color: white;
+}
